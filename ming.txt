@@ -1,1 +1,1 @@
-pirnt("dfd")
+print("dfd")
